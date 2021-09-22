@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Dima.  
+I enjoy developing web applications and learning new things.  
+
 
 <!--
 **Antushev/Antushev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
